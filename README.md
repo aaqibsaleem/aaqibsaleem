@@ -100,24 +100,6 @@ National digital repository platform archiving "Pakistani Adab ke Memar", litera
 
 <p align="center"><i>...check out my repositories tab for more projects and open-source contributions!</i></p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/aaqibsaleem">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=aaqibsaleem&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaqibsaleem&theme=tokyonight" alt="Profile Details" width="90%"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaqibsaleem&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaqibsaleem&theme=tokyonight" alt="Top Languages" />
-</p>
 
 
 ---
