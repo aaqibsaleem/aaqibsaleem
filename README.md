@@ -3,15 +3,14 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer · Founder · Problem Solver</b><br/>
-  <sub>Founder at <a href="https://xechtech.com">XechTech</a> · 5+ Years Experience 🚀</sub>
+  <b>Software Engineer · Problem Solver</b><br/>
+  <sub>5+ Years Experience 🚀</sub>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaqibsaleem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/iamaaqibsaleem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.facebook.com/iamAakkii/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://xechtech.com/"><img src="https://img.shields.io/badge/XechTech-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="XechTech"/></a>
 </p>
 
 <p align="center">
@@ -26,15 +25,14 @@
 ```yaml
 name: Aaqib Saleem
 location: Pakistan 🇵🇰
-company: XechTech (Founder)
 education: Software Engineer
 experience: 5+ years building production software
 focus: [JavaScript, TypeScript, .NET, React, Node.js, Python, Cloud, AI/LLMs]
 ```
 
-I'm a **Software Engineer** and **Founder** with over **5+ years of experience** building production software across modern web, cloud, and enterprise technologies.
+I'm a **Software Engineer** with over **5+ years of experience** building production software across modern web, cloud, and enterprise technologies.
 
-As the **Founder of [XechTech](https://xechtech.com)**, I specialize in crafting robust, scalable applications—ranging from reactive web interfaces to AI integrations and cloud infrastructure.
+I specialize in crafting robust, scalable applications—ranging from reactive web interfaces to AI integrations and cloud infrastructure.
 
 ---
 
@@ -110,8 +108,8 @@ National digital repository platform archiving "Pakistani Adab ke Memar", litera
 <tr>
 <td width="33%" align="center">
 
-**💼 Founder & Leader**<br/>
-Founder at XechTech<br/>
+**💻 Tech & Strategy**<br/>
+Clean Code & Architecture<br/>
 Product & Tech Strategy<br/>
 *Building impactful software*
 
@@ -143,5 +141,4 @@ Clients & Products shipped<br/>
   <a href="https://www.linkedin.com/in/aaqibsaleem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/iamaaqibsaleem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.facebook.com/iamAakkii/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://xechtech.com/"><img src="https://img.shields.io/badge/XechTech-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="XechTech"/></a>
 </p>
