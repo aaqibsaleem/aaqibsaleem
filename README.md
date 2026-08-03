@@ -27,7 +27,7 @@ name: Aaqib Saleem
 location: Pakistan 🇵🇰
 education: Software Engineer
 experience: 5+ years building production software
-focus: [JavaScript, TypeScript, .NET, React, Node.js, Python, Cloud, AI/LLMs]
+focus: [JavaScript, TypeScript, DevOps, AWS (EC2/RDS) .NET, React, Node.js, Python, Cloud, AI/LLMs]
 ```
 
 I'm a **Software Engineer** with over **5+ years of experience** building production software across modern web, cloud, and enterprise technologies.
