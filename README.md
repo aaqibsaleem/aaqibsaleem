@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer · Problem Solver</b><br/>
+  <b>Software Engineer · QA Specialist</b><br/>
   <sub>5+ Years Experience 🚀</sub>
 </p>
 
